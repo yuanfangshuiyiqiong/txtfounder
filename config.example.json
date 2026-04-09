@@ -1,0 +1,13 @@
+{
+  "DATA_DIR": "data",
+  "INDEX_DIR": "index",
+  "CHUNK_SIZE": 500,
+  "CHUNK_OVERLAP": 50,
+  "EMBEDDING_MODEL": "D:\\向量数据库\\all-MiniLM-L6-v2",
+  "TOP_K": 5,
+  "OPENAI_API_KEY": "",
+  "OPENAI_MODEL": "text-embedding-ada-002",
+  "DEEPSEEK_API_KEY": "sk-f6643e28c85644db81361980d46b2b51",
+  "DEEPSEEK_API_URL": "https://api.deepseek.com",
+  "DEEPSEEK_MODEL": "embedding"
+}
