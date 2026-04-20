@@ -70,7 +70,7 @@ class Config:
     CHUNK_OVERLAP = 50  # 文本块重叠大小
 
     # 嵌入模型配置
-    EMBEDDING_MODEL = "D:\\向量数据库 - 副本\\all-MiniLM-L6-v2"  # 本地模型路径
+    EMBEDDING_MODEL = "D:\\liworkplace\\APQP faiss database\\向量数据库 - 副本\\all-MiniLM-L6-v2"  # 本地模型路径
     EMBEDDING_DIM = 384  # 嵌入向量维度（all-MiniLM-L6-v2的维度）
 
     # 搜索配置
